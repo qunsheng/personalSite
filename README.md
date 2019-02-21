@@ -1,6 +1,26 @@
-# PersonalSite
+# Personal Website
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.2.
+This project is an angular project to introduce myself.
+
+## Preparation environment
+
+Download VS Code, install beautify/theme-tinaciousDesign/vscode-icons/debug for chrome/live server extensions to VS Code.
+
+Install node/npm/git.
+
+run `git config --global user.email "you@example.com"`
+run `git config --global user.name "Your Name"`
+
+Run `npm install -g @angular/cli` , to install angular cli on your system.
+
+## Create project
+
+Run `ng new personSite` to create project.
+
+## Get highcharts-angular to project
+
+Run `npm install highcharts-angular --save`
+Run `npm install highcharts-angular --save`
 
 ## Development server
 
