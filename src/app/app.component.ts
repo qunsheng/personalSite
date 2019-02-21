@@ -7,8 +7,7 @@ import * as Highcharts from 'highcharts';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Personal Site';
-  
+
   Highcharts = Highcharts;
   chartOptions = {
     series: [{
