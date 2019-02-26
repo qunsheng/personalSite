@@ -22,6 +22,12 @@ Run `ng new personSite` to create project.
 Run `npm install highcharts-angular --save`
 Run `npm install highcharts-angular --save`
 
+
+## If check out from github
+
+Run `git clone https://github.com/qunsheng/personalSite.git`
+Run `npm install`
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
