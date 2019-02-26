@@ -3,10 +3,12 @@ import { NgModule } from '@angular/core';
 import { HighchartsChartModule } from 'highcharts-angular';
 
 import { AppComponent } from './app.component';
+import { SkillSetComponent } from './skill-set/skill-set.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    SkillSetComponent
   ],
   imports: [
     BrowserModule,
