@@ -16,7 +16,7 @@ export class SkillSetComponent implements OnInit {
           type: 'pie'
       },
       title: {
-          text: 'Skills'
+          text: 'Technical Skills'
       },
       series: [{
             name: 'Front End Web Technologies',
