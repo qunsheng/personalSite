@@ -4,7 +4,7 @@ This project is an angular project to introduce myself.
 
 ## Preparation environment
 
-Download VS Code, install beautify/theme-tinaciousDesign/vscode-icons/debug for chrome/live server extensions to VS Code.
+Download VS Code, install beautify/prettier/theme-tinaciousDesign/vscode-icons/debug for chrome/live server extensions to VS Code.
 
 Install node/npm/git.
 
