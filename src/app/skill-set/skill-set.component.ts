@@ -53,15 +53,17 @@ export class SkillSetComponent implements OnInit {
             }, {
               name: 'Highcharts/D3JS(4 years)',
                 y: 4
-            }, {
-              name: 'JQuery(10 years)',
-                y: 10
-            }, {
+            },
+             {
               name: 'Dojo/Moo Tools/Backbone.js/Require.js',
                 y: 1
             }, {
               name: 'DeveloperTools',
                 y: 1
+            } ,
+            {
+              name: 'JQuery(10 years)',
+                y: 10
             }
             , {
               name: 'PhoneGap/Cordova/NativeScript',
@@ -77,16 +79,20 @@ export class SkillSetComponent implements OnInit {
             {
               name: 'Restful Web Service',
               y: 10
-            }, {
+            },
+            
+            {
+                name: 'Tomcat',
+                y: 1
+            }, 
+             {
                 name: 'SOAP Web Services',
                 y: 1
             }, {
                 name: 'JAVA/JAVA EE/Spring(10+ years)',
                 y: 10
-            }, {
-                name: 'Tomcat',
-                y: 1
-            }, {
+            },
+            {
                 name: 'Sybase/Oracle/MySQL(10+ years)',
                 y: 10
             }, {
@@ -110,15 +116,11 @@ export class SkillSetComponent implements OnInit {
               // selected: true
           }, 
           {
-              name: 'GitHub',
-              y: 1
-          },  
-          {
-              name: 'SVN/CVS/Clear Case/Clear Quest/Perforce',
+              name: 'Continuous Integration/Crouse Control/Hudson',
               y: 1
           }, 
           {
-              name: 'Continuous Integration/Crouse Control/Hudson',
+              name: 'GitHub',
               y: 1
           }, 
           {
@@ -133,7 +135,12 @@ export class SkillSetComponent implements OnInit {
           }, {
               name: 'Agile/Scrum/Extreme Programming/Test Driven Development/Pair Programming',
               y: 10
-          }, {
+          } ,
+          {
+              name: 'SVN/CVS/Clear Case/Clear Quest/Perforce',
+              y: 1
+          }, 
+          {
               name: 'Design Patterns',
               y: 1
           }]
