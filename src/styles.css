@@ -74,19 +74,21 @@ p {
 }
 
   
-  .box img {
-    width: 100px;
-    height: 100px;
-    float: left;
-  }
-
-  .portfolio .box {
-      border: 3px solid #666666;
-     
+.portfolio-item {
+    display:flex;
+    align-items: center;
+    border: 3px solid #666666;
+    
     background: #ffffff;
     color: #333333;
-  }
-  
+}
+.portfolio-item img{
+    flex-grow:0;
+    flex-shrink:0;
+    
+    width: 100px;
+    height: 100px;
+}
 
  
 /* Media Queries */
