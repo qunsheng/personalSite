@@ -11,7 +11,7 @@ Responsive Web Page<br>
 
 ## Preparation environment
 
-Download VS Code, install beautify/prettier/theme-tinaciousDesign/vscode-icons/debug for chrome/live server extensions to VS Code.<br>
+Download VS Code, install beautify/prettier/theme-tinaciousDesign/vscode-icons/debug for chrome/live server extensions to VS Code.<br> Go to File > Preferences > Settings > Text Editor, check "Format on Save" option.
 
 Install node/npm/git.
 
