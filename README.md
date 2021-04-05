@@ -27,7 +27,7 @@ Run `ng new personSite` to create project.
 ## Get highcharts-angular to project
 
 Run `npm install highcharts-angular --save`<br>
-Run `npm install highcharts-angular --save`
+Run `npm install highcharts --save`
 
 ## Code scaffolding
 
