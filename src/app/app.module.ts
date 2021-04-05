@@ -5,12 +5,14 @@ import { HighchartsChartModule } from 'highcharts-angular';
 import { AppComponent } from './app.component';
 import { SkillSetComponent } from './skill-set/skill-set.component';
 import { WorkExperienceComponent } from './work-experience/work-experience.component';
+import { EducationComponent } from './education/education.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     SkillSetComponent,
-    WorkExperienceComponent
+    WorkExperienceComponent,
+    EducationComponent
   ],
   imports: [
     BrowserModule,
